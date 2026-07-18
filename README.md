@@ -1,95 +1,65 @@
-<p align="center">
-<img src="YOUR_PINK_NEON_BANNER.gif" width="100%">
-</p>
-
-<h1 align="center">DHITEE OS v2.0</h1>
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Booting+DhiteeOS...;Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Projects+That+Matter.;Welcome+to+my+GitHub."/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,20,26&text=DHITEE%20SHAH&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student&descAlignY=68"/>
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF69B4"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Dhitee+Shah+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Building+Something+New"/>
 
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dhitee-shah/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dhitee018@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E91E63?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-ochre-pi-65.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dtnotdt&style=for-the-badge&color=ff69b4"/>
 </p>
 
 ---
 
-# 💻 SYSTEM BOOT
-
-```console
-> boot dhitee.exe
-
-Initializing kernel...
-
-██████████████████████████ 100%
-
-✔ Loading profile...
-✔ Connecting GitHub...
-✔ Loading repositories...
-✔ Loading creativity...
-✔ Caffeine levels.............OK
-✔ RGB lights..................ON
-
-System ready.
-
-Welcome back, Dhitee.
-```
-
----
-
-# 🪪 DIGITAL ID
+# 👩‍💻 developer.config
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+name: Dhitee Shah
 
-        DEVELOPER IDENTIFICATION
+role: Computer Science Engineering Student
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+university: Nirma University
 
-👤 Name        :: Dhitee Shah
+location: India
 
-🎓 University  :: Nirma University
+focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Open Source
 
-💻 Role        :: Computer Science Engineering Student
+currently:
+  - Building real-world projects
+  - Solving Data Structures & Algorithms
+  - Exploring modern technologies
 
-🌍 Country     :: India
-
-🚀 Interests   ::
-                 • Full Stack Development
-                 • Artificial Intelligence
-                 • Machine Learning
-                 • Open Source
-
-🟢 Status      :: ONLINE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+status: Learning. Building. Growing.
 ```
 
 ---
 
-# 🎯 CURRENT MISSION
-
-```text
-[✓] Building Full Stack Applications
-
-[✓] Solving Data Structures & Algorithms
-
-[✓] Exploring Artificial Intelligence
-
-[✓] Learning Modern Frameworks
-
-[✓] Creating Real-World Projects
-
-[✓] Growing Every Day
-```
-
----
-
-# ⚡ TECH ARSENAL
+# ⚡ Tech Arsenal
 
 <p align="center">
 
@@ -99,152 +69,78 @@ Welcome back, Dhitee.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pandas-E91E63?style=for-the-badge&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/Matplotlib-FF1493?style=for-the-badge">
+<img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-E91E63?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF1493?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📌 FEATURED PROJECTS
+# 📊 GitHub Analytics
 
-```text
-🚀 FinTech AI Platform
+<p align="center">
 
-🤖 AI Attendance System
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dtnotdt&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtnotdt&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dtnotdt&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dtnotdt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+> *(Replace these with GitHub pinned repositories later.)*
+
+🌸 FinTech Credit Scoring & AI Investment Advisor
+
+🤖 Automated Student Attendance Monitoring System
 
 🌐 Personal Portfolio
 
-📊 Machine Learning Projects
-
-🧠 Data Structures & Algorithms
-```
-
-(Replace this section later with GitHub pinned repositories.)
+💻 Machine Learning Projects
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true">
-
-</p>
-
----
-
-# 🔥 STREAK
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dtnotdt&theme=radical&hide_border=true">
-
-</p>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dtnotdt&theme=tokyo-night&hide_border=true&line=ff69b4&point=ffffff&color=ff69b4">
-
-</p>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dtnotdt&theme=radical&no-frame=true&margin-w=12">
-
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dtnotdt/dtnotdt/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 📅 CONTRIBUTION CALENDAR
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/demo/">
-
-</p>
-
-(Replace with a real 3D contribution calendar once it's set up.)
-
----
-
-# 💬 RANDOM DEV QUOTE
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
-</p>
-
----
-
-# 🌸 CONNECT
+# 🌸 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dhitee-shah/">
-
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
-
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dhitee018@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-E91E63?style=for-the-badge&logo=gmail&logoColor=white">
-
+<img src="https://img.shields.io/badge/Gmail-E91E63?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://my-portfolio-ochre-pi-65.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=firefox&logoColor=white">
-
+<img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-
 
 </p>
 
 ---
 
-# 🚪 LOGOUT
-
-```console
-Saving progress...
-
-██████████████████████ 100%
-
-Session closed successfully.
-
-Thanks for visiting.
-
-See you in the next commit.
-```
-
 <p align="center">
 
-### ✨ *"Dream • Build • Break • Learn • Repeat."* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,26"/>
 
 </p>
