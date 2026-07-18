@@ -77,22 +77,29 @@ status: Learning. Building. Growing.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dtnotdt&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtnotdt&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dtnotdt&theme=radical"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dtnotdt&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dtnotdt&theme=radical" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dtnotdt&theme=radical" width="48%"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtnotdt&theme=radical" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dtnotdt&theme=radical&utcOffset=5.5" width="48%"/>
+
+</p>
 ---
 
 # 📈 Contribution Activity
@@ -103,19 +110,6 @@ status: Learning. Building. Growing.
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-> *(Replace these with GitHub pinned repositories later.)*
-
-🌸 FinTech Credit Scoring & AI Investment Advisor
-
-🤖 Automated Student Attendance Monitoring System
-
-🌐 Personal Portfolio
-
-💻 Machine Learning Projects
 
 ---
 
