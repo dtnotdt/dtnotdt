@@ -143,7 +143,7 @@ Welcome back, Dhitee.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=dtnotdt&theme=radical&hide_border=true">
 
 </p>
 
@@ -153,7 +153,7 @@ Welcome back, Dhitee.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&line=ff69b4&point=ffffff&color=ff69b4">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dtnotdt&theme=tokyo-night&hide_border=true&line=ff69b4&point=ffffff&color=ff69b4">
 
 </p>
 
@@ -163,7 +163,7 @@ Welcome back, Dhitee.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=12">
+<img src="https://github-profile-trophy.vercel.app/?username=dtnotdt&theme=radical&no-frame=true&margin-w=12">
 
 </p>
 
@@ -173,7 +173,7 @@ Welcome back, Dhitee.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/dtnotdt/dtnotdt/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
@@ -205,35 +205,25 @@ Welcome back, Dhitee.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dhitee-shah/">
 
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dhitee018@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-E91E63?style=for-the-badge&logo=gmail&logoColor=white">
 
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://my-portfolio-ochre-pi-65.vercel.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=firefox&logoColor=white">
 
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
 
-<img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white">
-
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/Codeforces-E91E63?style=for-the-badge&logo=codeforces&logoColor=white">
-
-</a>
 
 </p>
 
